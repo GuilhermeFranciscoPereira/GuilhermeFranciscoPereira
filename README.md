@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Here!+s2;Welcome+to+my+profile+:%29;Look+at+my+pinned+repository!;I'm+19+years+old+and+I'm+from+São+Paulo,+Brazil;I'm+studying+at+Fatec+University!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Here!+s2;Welcome+to+my+profile+:%29;Look+at+my+pinned+repository!;I'm+19+years+old+and+I'm+from+São+Paulo,+Brazil;I'm+studying+at+Fatec+University!;Look+at+my+Youtube+Channel:+LottusDev)](https://git.io/typing-svg)
 ##
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFranciscoPereira&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117" alt="GuilhermeFranciscoPereira github stats" />
@@ -13,7 +13,7 @@
 
 ##
 
-### Main Skills:
+### 🌟 Main Skills:
 ##
 <div style="display: inline-block" >
   <img align="center" alt="TypeScriptLogo" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
@@ -27,10 +27,15 @@
 
 ##
 
-### Studying in this moment:
+### 📚 Studying in this moment:
 ## 
 <div style="display: inline-block" >
   <img align="center" alt="NodeJSLogo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div>
+
+##
+
+###   <img align="center" alt="youtubeLogo" height="40" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/> My Youtube Channel:
+> <a href="https://www.youtube.com/@LottusDev" target="_blank">Click here - https://www.youtube.com/@LottusDev</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
