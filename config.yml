@@ -1,0 +1,97 @@
+# Galaxy Profile README Configuration
+# Copy this file to config.yml and customize it to make it your own!
+#
+# Usage:
+#   cp config.example.yml config.yml
+#   # Edit config.yml with your details
+#   python -m generator.main
+#
+# Demo mode (no API calls, uses this file directly):
+#   python -m generator.main --demo
+
+# Your GitHub username (required)
+username: GuilhermeFranciscoPereira
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Guilherme Pereira"
+  tagline: "Full Stack Developer"
+  company: "yLottus"
+  location: "São Paulo, Brazil"
+  bio: |
+    Full Stack developer focused on building well-structured and scalable systems.
+    Passionate about clean architecture, domain modeling and long-term software design.
+  philosophy: '"Probably coding or studying right now 🚀"'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "guilhermefpereira.dev@gmail.com"
+  linkedin: "guilherme-francisco-pereira-4a3867283"
+  website: ""
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "Next.js"
+      - "TypeScript"
+      - "CSS Modules"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "NestJS"
+      - "TypeScript"
+      - "Prisma"
+  - name: "Skills"
+    color: "axon_amber"
+    items:
+      - "Testing"
+      - "Docker"
+      - "GitHub"
+
+# Featured projects shown as constellation stars
+# Each project needs:
+#   repo: "owner/repo-name"   — GitHub repository path
+#   arm: 0-2                  — Which galaxy arm to associate with (index)
+#   description: "..."        — Short description shown on the card
+projects:
+  - repo: "GuilhermeFranciscoPereira/Eventos_Fatec_Itu-Back-End"
+    arm: 0
+    description: "Sistema desenvolvido para que os eventos da Faculdade Fatec Itu - Dom Amaury Castanho pudessem ter um método de inscrição mais práticos, gerando facilidade tanto para os alunos, pessoas de fora e para os responsáveis pelos eventos."
+  - repo: "GuilhermeFranciscoPereira/LandingPage_Ana-Guarda"
+    arm: 1
+    description: "Landing page real desenvolvida para uma professora de inglês"
+
+# Theme color overrides (optional — defaults to deep space palette)
+# All values must be valid hex color codes (#RRGGBB)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration — which metrics to show on the telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     # Languages to hide from the telemetry chart
+    - "HTML"
+    - "Python"
+    - "Shell"
+    - "Makefile"
+  max_display: 6               # Maximum number of languages to show

@@ -1,15 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!+s2;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+20+anos+e+sou+de+São+Paulo!;Estou+estudando+na+faculdade+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!+s2;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Estou+estudando+na+faculdade+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev)](https://git.io/typing-svg)
+
 ##
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFranciscoPereira&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117" alt="GuilhermeFranciscoPereira github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFranciscoPereira&layout=compact&hide_border=true&title_color=40E0D0&text_color=40E0D0&bg_color=0d1117" />
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeFranciscoPereira&bg_color=0f1623&color=00d4ff&line=00d4ff&point=0e5d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeFranciscoPereira&bg_color=0d1117&color=40f4d0&line=40f4d0&point=0e5d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+
+<summary><span style="font-size: 1.25em; font-weight: 600;">Sobre mim</span></summary>
+
+<br/>
+
+Tenho 21 anos, moro em São Paulo e estou no último ano de Análise e Desenvolvimento de Sistemas pela Fatec.
+Atuo profissionalmente desde 2024 com tecnologias modernas como Next.js, NestJS, TypeScript, Prisma e Docker.
+
+No meu tempo livre e deslocamentos, continuo estudando e aprimorando minhas habilidades por meio de cursos, artigos e projetos próprios.
+
+Projeto de destaque: Desenvolvi sozinho um sistema real completo que está em uso em um condomínio de alto padrão localizado em Itu-SP, automatizando a geração de notificações de veículos que ultrapassavam a velocidade em radares internos. 
+O sistema integrou APIs dos radares, IA para anonimização de imagens, dashboard interativo, relatórios, exportação PDF/Excel, envio automático de e-mails, Whatsapp.
+O processo, antes manual e demorado (13 a 15 minutos por notificação), passou a ser 100% automatizado — eliminando erros, necessidade de contratação de uma pessoa somente para este serviço e economizando dezenas de horas mensais.
+
+Stack principal:
+Front-end: Next.js, TypeScript, CSS Modules / Styled Components
+Back-end: NestJS, Prisma, Docker, MySQL
+Outros: APIs REST, Scrum, AWS (básico), Git e CI/CD
+
+Soft skills: Comunicação assertiva, proatividade, foco em qualidade, aprendizado rápido e colaboração em equipe.
+
+Tenho inglês intermediário com prática recorrente em conversas com nativos e grupos de estudo internacionais. Tenho inclusive conteúdos no meu canal do YouTube (LottusDev) com discussões em inglês sobre programação com pessoas de outros países.
+
+</details>
 
 ##
 
@@ -30,6 +71,6 @@
 
 ##
 
-###   <img align="center" alt="youtubeLogo" height="40" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>Meu canal no youtube: <a href="https://www.youtube.com/@LottusDev" target="_blank">https://www.youtube.com/@LottusDev</a> 
+###   <img align="center" alt="youtubeLogo" height="30" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/> Meu canal no youtube: <a href="https://www.youtube.com/@LottusDev" target="_blank">https://www.youtube.com/@LottusDev</a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
