@@ -32,21 +32,22 @@
 
 <br/>
 
-Tenho 21 anos, moro em São Paulo e estou no último ano de Análise e Desenvolvimento de Sistemas pela Fatec.
-Atuo profissionalmente desde 2024 com tecnologias modernas como Next.js, NestJS, TypeScript, Prisma e Docker.
+Tenho 21 anos, moro em São Paulo e estou no último semestre de Análise e Desenvolvimento de Sistemas pela Fatec.
+Atuo profissionalmente desde o final de 2024 com tecnologias como Next.js, NestJS, TypeScript, Prisma e Docker.
 
-No meu tempo livre e deslocamentos, continuo estudando e aprimorando minhas habilidades por meio de cursos, artigos e projetos próprios.
+Projeto de destaque: Desenvolvi individualmente um sistema web full stack atualmente em uso diário por condomínios, responsável por automatizar integralmente o processamento de infrações de velocidade registradas por radares internos.
+A solução integrou APIs dos equipamentos para captura automática dos eventos, implementou anonimização de imagens com uso de IA, estruturou dashboards administrativos interativos, geração de relatórios gerenciais, exportação de dados em PDF e Excel e envio automatizado de notificações por e-mail e WhatsApp. O ambiente foi containerizado com Docker e estruturado em nuvem, garantindo estabilidade, padronização de deploy e escalabilidade. A arquitetura foi projetada no modelo multi-tenant, permitindo múltiplos clientes operando em uma única instância de aplicação e banco de dados com isolamento lógico por tenant, reduzindo custos de infraestrutura, simplificando manutenção e viabilizando escalabilidade comercial sem aumento proporcional de despesas técnicas. 
+O processo, que anteriormente era manual e levava entre 13 e 15 minutos por notificação, passou a ser 100% automatizado, com tempo médio de aproximadamente 5 segundos por ocorrência, eliminando falhas operacionais, removendo a necessidade de contratação dedicada para a atividade e economizando dezenas de horas mensais de trabalho. Além do ganho operacional, o sistema elevou a percepção de valor do serviço oferecido aos clientes, aumentou a capacidade de processamento da empresa e abriu espaço para expansão da base de condomínios atendidos sem necessidade de ampliação da equipe e sem crescimento proporcional de despesas, gerando impacto direto na eficiência, competitividade e potencial de receita do negócio.
 
-Projeto de destaque: Desenvolvi sozinho um sistema real completo que está em uso em um condomínio de alto padrão localizado em Itu-SP, automatizando a geração de notificações de veículos que ultrapassavam a velocidade em radares internos. 
-O sistema integrou APIs dos radares, IA para anonimização de imagens, dashboard interativo, relatórios, exportação PDF/Excel, envio automático de e-mails, Whatsapp.
-O processo, antes manual e demorado (13 a 15 minutos por notificação), passou a ser 100% automatizado — eliminando erros, necessidade de contratação de uma pessoa somente para este serviço e economizando dezenas de horas mensais.
-
-Stack principal:
-Front-end: Next.js, TypeScript, CSS Modules / Styled Components
-Back-end: NestJS, Prisma, Docker, MySQL
-Outros: APIs REST, Scrum, AWS (básico), Git e CI/CD
-
-Soft skills: Comunicação assertiva, proatividade, foco em qualidade, aprendizado rápido e colaboração em equipe.
+Principais habilidades técnicas:
+Backend: NestJS, Node.js, TypeScript, Prisma, MySQL, APIs REST
+Frontend: Next.js, React, TypeScript, CSS Modules / Styled Components
+Banco de Dados: Modelagem relacional 
+DevOps: Docker, containerização
+Testes: Jest
+Controle de Versão: Git, GitHub
+Arquitetura: Multi-tenant, APIs escaláveis, separação de camadas
+Metodologias Ágeis: Scrum, Kanban
 
 Tenho inglês intermediário com prática recorrente em conversas com nativos e grupos de estudo internacionais. Tenho inclusive conteúdos no meu canal do YouTube (LottusDev) com discussões em inglês sobre programação com pessoas de outros países.
 
