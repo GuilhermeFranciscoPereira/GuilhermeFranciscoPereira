@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!+s2;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Estou+estudando+na+faculdade+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!+s2;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Graduado+em+ADS+pela+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev)](https://git.io/typing-svg)
 
 ##
 
@@ -28,28 +28,20 @@
 
 <details>
 
-<summary><span style="font-size: 1.25em; font-weight: 600;">Sobre mim</span></summary>
+<summary><h3>Sobre mim</h3></summary>
 
 <br/>
 
-Tenho 21 anos, moro em São Paulo e estou no último semestre de Análise e Desenvolvimento de Sistemas pela Fatec.
-Atuo profissionalmente desde o final de 2024 com tecnologias como Next.js, NestJS, TypeScript, Prisma e Docker.
+Tenho 21 anos, formado em Análise e Desenvolvimento de Sistemas pela Fatec e hoje atuo profissionalmente como desenvolvedor full stack desde o final de 2024, mas iniciei os estudos de programação em 2023.
 
-Projeto de destaque: Desenvolvi individualmente um sistema web full stack atualmente em uso diário por condomínios, responsável por automatizar integralmente o processamento de infrações de velocidade registradas por radares internos.
-A solução integrou APIs dos equipamentos para captura automática dos eventos, implementou anonimização de imagens com uso de IA, estruturou dashboards administrativos interativos, geração de relatórios gerenciais, exportação de dados em PDF e Excel e envio automatizado de notificações por e-mail e WhatsApp. O ambiente foi containerizado com Docker e estruturado em nuvem, garantindo estabilidade, padronização de deploy e escalabilidade. A arquitetura foi projetada no modelo multi-tenant, permitindo múltiplos clientes operando em uma única instância de aplicação e banco de dados com isolamento lógico por tenant, reduzindo custos de infraestrutura, simplificando manutenção e viabilizando escalabilidade comercial sem aumento proporcional de despesas técnicas. 
-O processo, que anteriormente era manual e levava entre 13 e 15 minutos por notificação, passou a ser 100% automatizado, com tempo médio de aproximadamente 5 segundos por ocorrência, eliminando falhas operacionais, removendo a necessidade de contratação dedicada para a atividade e economizando dezenas de horas mensais de trabalho. Além do ganho operacional, o sistema elevou a percepção de valor do serviço oferecido aos clientes, aumentou a capacidade de processamento da empresa e abriu espaço para expansão da base de condomínios atendidos sem necessidade de ampliação da equipe e sem crescimento proporcional de despesas, gerando impacto direto na eficiência, competitividade e potencial de receita do negócio.
+Projeto de destaque: Desenvolvi sozinho um sistema que atualmente está em uso diário por mais de 14 condomínios, responsável por automatizar integralmente o processamento de infrações de velocidade registradas por radares internos.
 
-Principais habilidades técnicas:
-Backend: NestJS, Node.js, TypeScript, Prisma, MySQL, APIs REST
-Frontend: Next.js, React, TypeScript, CSS Modules / Styled Components
-Banco de Dados: Modelagem relacional 
-DevOps: Docker, containerização
-Testes: Jest
-Controle de Versão: Git, GitHub
-Arquitetura: Multi-tenant, APIs escaláveis, separação de camadas
-Metodologias Ágeis: Scrum, Kanban
+A solução integrou APIs dos equipamentos para captura automática dos eventos, implementou anonimização de imagens com uso de IA, estruturou dashboards administrativos interativos, geração de relatórios gerenciais, exportação de dados, envio automatizado de notificações por e-mail e WhatsApp, e etc. O ambiente foi containerizado com Docker e estruturado em nuvem com uma pipeline de CI/CD, garantindo estabilidade, padronização de deploy e escalabilidade. A arquitetura foi projetada no modelo multi-tenant, permitindo múltiplos clientes operando em uma única instância de aplicação e banco de dados com isolamento lógico, reduzindo custos de infraestrutura, simplificando manutenção e viabilizando escalabilidade comercial sem aumento proporcional de despesas técnicas.
+O processo, que anteriormente era manual e levava entre 13 e 15 minutos por notificação, passou a ser 100% automatizado, com tempo médio de aproximadamente 5 segundos por ocorrência, eliminando falhas operacionais, removendo a necessidade de contratação de funcionário dedicado somente para a atividade e também economizando dezenas de horas mensais de trabalho. Além do ganho operacional, o sistema elevou a percepção de valor do serviço oferecido aos clientes, aumentou a capacidade de processamento da empresa e abriu espaço para expansão da base de condomínios atendidos sem necessidade de ampliação da equipe e sem crescimento proporcional de despesas, gerando impacto direto na eficiência, competitividade e potencial de receita do negócio.
 
-Tenho inglês intermediário com prática recorrente em conversas com nativos e grupos de estudo internacionais. Tenho inclusive conteúdos no meu canal do YouTube (LottusDev) com discussões em inglês sobre programação com pessoas de outros países.
+Sem detalhar, mas outro projeto de destaque que desenvolvi sozinho foi um sistema que está em uso real por uma faculdade estadual (Fatec), onde iniciou como um tcc de uma plataforma de gestão de eventos acadêmicos, mas foi solicitada, aprovada e adotada pela Fatec Itu como sistema oficial para organização de eventos, onde hoje em dia os alunos e colaboradores utilizam dentro da instituição.
+
+Tenho inglês avançado com prática recorrente em conversas com nativos e grupos internacionais. Tenho inclusive conteúdos no meu canal do YouTube (LottusDev) com discussões em inglês sobre programação e outros assuntos com pessoas de outros países
 
 </details>
 
