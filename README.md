@@ -1,6 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!+s2;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Graduado+em+ADS+pela+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Graduado+em+ADS+pela+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev;CEO+da+Lottus+Labs!)](https://git.io/typing-svg)
+
+<div align="center">
+
+**Full Stack Developer | CEO da [Lottus Labs](https://lottus-labs.vercel.app)**
+
+</div>
 
 ##
 
@@ -20,50 +27,145 @@
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
-<br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeFranciscoPereira&bg_color=0f1623&color=00d4ff&line=00d4ff&point=0e5d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ##
 
 <details>
 
-<summary><h3>Sobre mim</h3></summary>
+<summary><h3>👨‍💻 Sobre mim</h3></summary>
 
 <br/>
 
-Tenho 21 anos, formado em Análise e Desenvolvimento de Sistemas pela Fatec e hoje atuo profissionalmente como desenvolvedor full stack desde o final de 2024, mas iniciei os estudos de programação em 2023.
+Sou **Guilherme Pereira**, desenvolvedor Full Stack e **CEO da [Lottus Labs](https://lottus-labs.vercel.app)**, empresa voltada ao desenvolvimento de soluções tecnológicas.
 
-Projeto de destaque: Desenvolvi sozinho um sistema que atualmente está em uso diário por mais de 14 condomínios, responsável por automatizar integralmente o processamento de infrações de velocidade registradas por radares internos.
+Sou graduado em **Análise e Desenvolvimento de Sistemas pela Fatec** e atuo profissionalmente como desenvolvedor desde o final de 2024, tendo iniciado meus estudos em programação em 2023.
 
-A solução integrou APIs dos equipamentos para captura automática dos eventos, implementou anonimização de imagens com uso de IA, estruturou dashboards administrativos interativos, geração de relatórios gerenciais, exportação de dados, envio automatizado de notificações por e-mail e WhatsApp, e etc. O ambiente foi containerizado com Docker e estruturado em nuvem com uma pipeline de CI/CD, garantindo estabilidade, padronização de deploy e escalabilidade. A arquitetura foi projetada no modelo multi-tenant, permitindo múltiplos clientes operando em uma única instância de aplicação e banco de dados com isolamento lógico, reduzindo custos de infraestrutura, simplificando manutenção e viabilizando escalabilidade comercial sem aumento proporcional de despesas técnicas.
-O processo, que anteriormente era manual e levava entre 13 e 15 minutos por notificação, passou a ser 100% automatizado, com tempo médio de aproximadamente 5 segundos por ocorrência, eliminando falhas operacionais, removendo a necessidade de contratação de funcionário dedicado somente para a atividade e também economizando dezenas de horas mensais de trabalho. Além do ganho operacional, o sistema elevou a percepção de valor do serviço oferecido aos clientes, aumentou a capacidade de processamento da empresa e abriu espaço para expansão da base de condomínios atendidos sem necessidade de ampliação da equipe e sem crescimento proporcional de despesas, gerando impacto direto na eficiência, competitividade e potencial de receita do negócio.
+Minha experiência envolve o desenvolvimento de aplicações de ponta a ponta, desde arquitetura de software, modelagem de dados e construção de APIs até interfaces, integrações externas, automações, infraestrutura e implantação em produção.
 
-Sem detalhar, mas outro projeto de destaque que desenvolvi sozinho foi um sistema que está em uso real por uma faculdade estadual (Fatec), onde iniciou como um tcc de uma plataforma de gestão de eventos acadêmicos, mas foi solicitada, aprovada e adotada pela Fatec Itu como sistema oficial para organização de eventos, onde hoje em dia os alunos e colaboradores utilizam dentro da instituição.
+Tenho foco especial em **soluções que resolvem problemas reais**, automatizam processos e geram resultados mensuráveis para empresas e instituições.
 
-Tenho inglês avançado com prática recorrente em conversas com nativos e grupos internacionais. Tenho inclusive conteúdos no meu canal do YouTube (LottusDev) com discussões em inglês sobre programação e outros assuntos com pessoas de outros países
+### 🚀 Projetos de destaque
+
+#### 🚗 Plataforma de Gestão e Automação de Infrações de Velocidade
+
+**Sistema Multi-Tenant | Produção Comercial | Desenvolvimento Individual**
+
+Desenvolvi individualmente uma plataforma utilizada diariamente por **mais de 14 condomínios**, responsável por automatizar integralmente o processamento de infrações de velocidade registradas por radares internos.
+
+A solução inclui:
+
+- **Integração com APIs de radares** para captura automática de eventos e ocorrências.
+- **Anonimização de imagens utilizando Inteligência Artificial**, preservando informações sensíveis.
+- **Dashboards administrativos interativos**, indicadores operacionais e relatórios gerenciais.
+- **Exportação de dados** e gerenciamento das ocorrências.
+- **Notificações automatizadas** por e-mail e WhatsApp.
+- **Arquitetura multi-tenant**, permitindo múltiplos clientes em uma única aplicação e banco de dados, com isolamento lógico de dados.
+- **Docker, infraestrutura em nuvem e CI/CD**, garantindo padronização dos deploys e facilitando manutenção e expansão.
+
+**📊 Impacto gerado:**
+
+| Indicador | Resultado |
+|:---|:---|
+| Clientes atendidos | 14+ condomínios |
+| Processamento anterior | 13–15 minutos por notificação |
+| Processamento automatizado | Aproximadamente 5 segundos |
+| Automação do processo | 100% |
+| Ganho operacional | Dezenas de horas economizadas mensalmente |
+
+A implementação eliminou tarefas manuais repetitivas, reduziu falhas operacionais e removeu a necessidade de contratação de um funcionário dedicado exclusivamente a essa atividade.
+
+Além disso, a arquitetura possibilitou expandir a operação sem necessidade de crescimento proporcional da equipe ou dos custos de infraestrutura, aumentando a eficiência, a capacidade de atendimento e o potencial comercial do negócio.
+
+Todo o ciclo de desenvolvimento, incluindo **arquitetura, backend, frontend, integrações, banco de dados, infraestrutura e deploy**, foi realizado individualmente por mim.
+
+🔗 Saiba mais sobre o projeto: [Rumo Radares - GitHub](https://github.com/GuilhermeFranciscoPereira/RumoRadares_Pinguim)
+
+---
+
+#### 🎓 Plataforma de Gestão de Eventos Acadêmicos — Fatec Itu
+
+**Sistema Institucional | Produção Real | Desenvolvimento Individual**
+
+Outro projeto que desenvolvi individualmente foi uma plataforma de gestão de eventos acadêmicos, inicialmente criada como meu **Trabalho de Conclusão de Curso (TCC)**.
+
+O projeto ultrapassou o ambiente acadêmico: a solução foi **solicitada, aprovada e adotada oficialmente pela Fatec Itu**, tornando-se um sistema utilizado por alunos e colaboradores da instituição.
+
+A plataforma digitaliza e centraliza processos relacionados à organização e ao gerenciamento de eventos acadêmicos.
+
+Esse projeto representa a evolução de uma solução acadêmica para um **software institucional em produção**, desenvolvido para atender necessidades reais de uma instituição pública de ensino superior.
+
+Fui responsável pelo desenvolvimento integral do **Front-end e Back-end** da plataforma. Porém, a versão **mobile** foi desenvolvida pelo meu grande amigo e desenvolvedor **[José Lucas](https://github.com/JoseMGomes)**, cujo trabalho está disponível no repositório: **[App Eventos Fatec - GitHub](https://github.com/JoseMGomes/app-eventos-fatec)**.
+
+🔗 Saiba mais sobre o projeto: [Eventos Fatec Itu - GitHub](https://github.com/GuilhermeFranciscoPereira/Eventos_Fatec_Itu-Back-End)
+
+---
+
+### 🧠 Áreas de atuação e interesse
+
+- **Frontend:** desenvolvimento de interfaces modernas, responsivas e interativas.
+- **Backend:** construção de APIs, integrações e regras de negócio.
+- **Arquitetura:** aplicações multi-tenant, organização de sistemas e escalabilidade.
+- **Automação:** otimização de processos e integração entre plataformas.
+- **DevOps:** Docker, CI/CD, deploy e manutenção de aplicações em nuvem.
+- **Inteligência Artificial:** integração de recursos de IA em soluções de software.
 
 </details>
 
 ##
 
-### 🌟 Principais Habilidades:
-##
-<div style="display: inline-block" >
-  <img align="center" alt="TypeScriptLogo" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="NextJSLogo" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="ReactLogo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="CssLogo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="center" alt="NodeJSLogo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="NestJSLogo" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"/>
-  <img align="center" alt="PrismaLogo" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"/>
-  <img align="center" alt="MySQLLogo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+### 🌎 Idiomas
 
-  
+Tenho **inglês avançado**, com prática recorrente em conversas com nativos e participação em comunidades internacionais.
+
+Também produzo conteúdos no meu canal **[LottusDev](https://www.youtube.com/@LottusDev)**, incluindo discussões em inglês sobre programação, tecnologia e outros assuntos com pessoas de diferentes países.
+
+##
+
+### 🛠️ Principais Habilidades
+
+<div align="center">
+
+**Frontend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" alt="Frontend Stack"/>
+
+<br/><br/>
+
+**Backend & Database**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,mysql&theme=dark" alt="Backend Stack"/>
+
+<br/><br/>
+
+**DevOps & Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode&theme=dark" alt="DevOps Stack"/>
+
+<br/><br/>
+
+**Outras principais competências**
+
+<br/>
+
+`CI/CD` • `Multi-Tenant` • `Cloud` • `Automação` • `Integrações com IA`
+
 </div>
 
 ##
 
-###   <img align="center" alt="youtubeLogo" height="30" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/> Meu canal no youtube: <a href="https://www.youtube.com/@LottusDev" target="_blank">https://www.youtube.com/@LottusDev</a> 
+### 🎥 Meu canal no YouTube — LottusDev
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
+Compartilho conteúdos, experiências e discussões sobre programação, desenvolvimento de software e tecnologia, incluindo conversas em inglês com desenvolvedores e pessoas de outros países.
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-LottusDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LottusDev)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
