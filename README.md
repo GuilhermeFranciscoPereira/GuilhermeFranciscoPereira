@@ -120,39 +120,15 @@ Também produzo conteúdos no meu canal **[LottusDev](https://www.youtube.com/@L
 
 ##
 
-### 🛠️ Principais Habilidades
+### 🛠️ Principais Tecnologias & Competências
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,css,nestjs,nodejs,prisma,docker,git,githubactions,aws&theme=dark&perline=16" alt="Tech Stack" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" alt="Frontend Stack"/>
-
-<br/><br/>
-
-**Backend & Database**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,mysql&theme=dark" alt="Backend Stack"/>
-
-<br/><br/>
-
-**DevOps & Tools**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode&theme=dark" alt="DevOps Stack"/>
-
-<br/><br/>
-
-**Outras principais competências**
-
-<br/>
-
-`CI/CD` • `Multi-Tenant` • `Cloud` • `Automação` • `Integrações com IA`
+`CI/CD` • `Multi-Tenant` • `Cloud` • `Automação` • `APIs & Integrações` • `IA`
 
 </div>
 
