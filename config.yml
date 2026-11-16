@@ -16,18 +16,18 @@ username: GuilhermeFranciscoPereira
 profile:
   name: "Guilherme Pereira"
   tagline: "Full Stack Developer"
-  company: "yLottus"
+  company: "Lottus Labs"
   location: "São Paulo, Brazil"
   bio: |
-    Full Stack developer focused on building well-structured and scalable systems.
-    Passionate about clean architecture, domain modeling and long-term software design.
+    Full Stack developer building multi-tenant SaaS in production with NestJS, Next.js and Docker,
+    from requirements to deploy.
   philosophy: '"Probably coding or studying right now 🚀"'
 
 # Social links displayed at the bottom of the profile
 social:
   email: "guilhermefpereira.dev@gmail.com"
-  linkedin: "guilherme-francisco-pereira-4a3867283"
-  website: ""
+  linkedin: "guilherme-francisco-pereira"
+  website: "https://lottus-labs.com.br"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -37,20 +37,20 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "Next.js"
+      - "React"
       - "TypeScript"
-      - "CSS Modules"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "NestJS"
-      - "TypeScript"
+      - "Node.js"
       - "Prisma"
-  - name: "Skills"
+  - name: "DevOps"
     color: "axon_amber"
     items:
-      - "Testing"
       - "Docker"
-      - "GitHub"
+      - "AWS"
+      - "GitHub Actions"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +58,15 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "GuilhermeFranciscoPereira/Eventos_Fatec_Itu-Back-End"
-    arm: 0
-    description: "Sistema desenvolvido para que os eventos da Faculdade Fatec Itu - Dom Amaury Castanho pudessem ter um método de inscrição mais práticos, gerando facilidade tanto para os alunos, pessoas de fora e para os responsáveis pelos eventos."
-  - repo: "GuilhermeFranciscoPereira/LandingPage_Ana-Guarda"
+  - repo: "GuilhermeFranciscoPereira/RumoRadares_Pinguim"
     arm: 1
-    description: "Landing page real desenvolvida para uma professora de inglês"
+    description: "SaaS multi-tenant em produção que automatiza infrações de velocidade em mais de 14 condomínios."
+  - repo: "GuilhermeFranciscoPereira/Integra_Sig"
+    arm: 1
+    description: "SaaS multi-tenant e white-label de canal de denúncias e gestão da NR-1, em produção."
+  - repo: "GuilhermeFranciscoPereira/Lottus-Labs"
+    arm: 0
+    description: "Site da Lottus Labs com cena 3D interativa em Three.js, GSAP e SEO."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)

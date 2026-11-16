@@ -1,11 +1,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Tenho+21+anos+e+sou+de+São+Paulo!;Graduado+em+ADS+pela+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev;CEO+da+Lottus+Labs!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Guilherme+Pereira+Aqui!;Bem-vindo+ao+meu+perfil+:%29;Veja+os+meus+repositórios+fixados!;Graduado+em+ADS+pela+Fatec!;Veja+o+meu+Canal+do+Youtube:+LottusDev;Fundador+da+Lottus+Labs!)](https://git.io/typing-svg)
 
 <div align="center">
 
-**Full Stack Developer | CEO da [Lottus Labs](https://lottus-labs.vercel.app)**
+**Desenvolvedor Full Stack | Fundador da [Lottus Labs](https://lottus-labs.com.br)**
 
 </div>
 
@@ -29,13 +29,9 @@
 
 ##
 
-<details>
+### 👨‍💻 Sobre mim
 
-<summary><h3>👨‍💻 Sobre mim</h3></summary>
-
-<br/>
-
-Sou **Guilherme Pereira**, desenvolvedor Full Stack e **CEO da [Lottus Labs](https://lottus-labs.vercel.app)**, empresa voltada ao desenvolvimento de soluções tecnológicas.
+Sou **Guilherme Pereira**, desenvolvedor Full Stack e **fundador da [Lottus Labs](https://lottus-labs.com.br)**, empresa voltada ao desenvolvimento de soluções tecnológicas.
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas pela Fatec** e atuo profissionalmente como desenvolvedor desde o final de 2024, tendo iniciado meus estudos em programação em 2023.
 
@@ -53,11 +49,14 @@ Desenvolvi individualmente uma plataforma utilizada diariamente por **mais de 14
 
 A solução inclui:
 
-- **Integração com APIs de radares** para captura automática de eventos e ocorrências.
-- **Anonimização de imagens utilizando Inteligência Artificial**, preservando informações sensíveis.
-- **Dashboards administrativos interativos**, indicadores operacionais e relatórios gerenciais.
-- **Exportação de dados** e gerenciamento das ocorrências.
-- **Notificações automatizadas** por e-mail e WhatsApp.
+- **Gateway de radares** que só confirma o evento depois de gravá-lo em disco, com deduplicação e limite de 60 eventos novos por minuto por equipamento.
+- **Filas persistentes** para entrada, fotos e notificações, com checkpoints por etapa e retomada após reinício, sem perder evento nem duplicar infração.
+- **Regras por condomínio**, com reincidência e multa por ocorrência, e identificação automática do responsável pela placa.
+- **Anonimização de imagens com Inteligência Artificial** (YOLOv8 e OpenCV), preservando a placa e a tarja de dados como prova.
+- **Notificações automatizadas** por e-mail e WhatsApp, com o documento em PDF.
+- **Alertas no WhatsApp** de falta de comunicação dos radares, aferição e saldo da API de placas.
+- **Dashboards em tempo real**, relatórios gerenciais, exportação de dados e trilha de auditoria.
+- **Desempenho**: auditoria com milhões de registros otimizada com coluna virtual e índice composto no MySQL, aplicados sem travar a tabela.
 - **Arquitetura multi-tenant**, permitindo múltiplos clientes em uma única aplicação e banco de dados, com isolamento lógico de dados.
 - **Docker, infraestrutura em nuvem e CI/CD**, garantindo padronização dos deploys e facilitando manutenção e expansão.
 
@@ -66,7 +65,8 @@ A solução inclui:
 | Indicador | Resultado |
 |:---|:---|
 | Clientes atendidos | 14+ condomínios |
-| Processamento anterior | 13–15 minutos por notificação |
+| Volume processado | Cerca de 70 mil infrações por mês |
+| Processamento anterior | Cerca de 15 minutos por notificação |
 | Processamento automatizado | Aproximadamente 5 segundos |
 | Automação do processo | 100% |
 | Ganho operacional | Dezenas de horas economizadas mensalmente |
@@ -78,6 +78,25 @@ Além disso, a arquitetura possibilitou expandir a operação sem necessidade de
 Todo o ciclo de desenvolvimento, incluindo **arquitetura, backend, frontend, integrações, banco de dados, infraestrutura e deploy**, foi realizado individualmente por mim.
 
 🔗 Saiba mais sobre o projeto: [Rumo Radares - GitHub](https://github.com/GuilhermeFranciscoPereira/RumoRadares_Pinguim)
+
+---
+
+#### 🛡️ IntegraSig — Canal de Denúncias e Gestão da NR-1
+
+**SaaS Multi-Tenant | White-label | Produção Comercial | Desenvolvimento Individual**
+
+Desenvolvi individualmente o IntegraSig, um SaaS de canal de denúncias e gestão da NR-1 em produção, em conformidade com a **Lei 14.457/2022**, a **NR-1** e a **LGPD**.
+
+A solução inclui:
+
+- **Canal exclusivo por empresa**, com relatos sem identificação por link ou QR Code, protocolo e código de acompanhamento guardado apenas como hash.
+- **White-label completo**: logo, cores, fonte, textos e termos de cada empresa cliente.
+- **Módulo NR-1** com questionário psicossocial de 50 perguntas e resultados agregados, omitindo grupos com menos de 5 respostas.
+- **Financeiro com Mercado Pago** (Pix, boleto e cartão), webhooks assinados, faturas, notas fiscais e bloqueio automático por inadimplência.
+- **Segurança**: cookies httpOnly, refresh token rotativo, CSRF, isolamento por empresa e anexos privados com validação de assinatura.
+- **Deploy contínuo** com Docker e GitHub Actions, com backups criptografados e teste de restauração.
+
+🔗 Saiba mais sobre o projeto: [IntegraSig - GitHub](https://github.com/GuilhermeFranciscoPereira/Integra_Sig)
 
 ---
 
@@ -99,6 +118,34 @@ Fui responsável pelo desenvolvimento integral do **Front-end e Back-end** da pl
 
 ---
 
+#### 🧠 Lottus Brain — Segundo Cérebro da Lottus Labs
+
+**Uso Interno | Produção | Desenvolvimento Individual**
+
+Desenvolvi individualmente o Lottus Brain, o segundo cérebro da Lottus Labs: uma fonte única com tudo o que a empresa sabe, decide e faz, do comercial e dos clientes ao marketing, financeiro, jurídico e projetos, lida pela equipe no painel e usada como memória pela IA.
+
+A solução inclui:
+
+- **Conteúdo como código**: cada página é um Markdown com propriedades padronizadas, versionado no GitHub e validado antes de cada envio e de novo no CI.
+- **Painel em Next.js e Supabase**, com busca, editor com prévia ao vivo, backlinks, grafo em 9 formatos com Galáxia 3D carregada sob demanda, funil de clientes, tarefas, Google Agenda e métricas semanais.
+- **Saúde do cérebro**, que aponta links quebrados, propriedades com erro e páginas que ninguém cita.
+- **Desempenho**: o conteúdo vem num único download em cache, e o painel é avisado na hora quando algo muda no GitHub.
+- **Assistente com a API da Anthropic**, com tool use, streaming e prompt caching, somente leitura e com conversas privadas sincronizadas entre aparelhos.
+- **Arquitetura de orquestração de agentes por setor**, com orquestrador, memória compartilhada no cérebro, skills reutilizáveis e regras de aprovação para tudo o que sai da empresa.
+- **Segurança e celular**: 2FA, limite de tentativas por e-mail e IP, níveis de acesso, testes com Vitest, backup semanal e PWA instalável que guarda as últimas páginas para ler offline.
+
+O painel é de uso restrito à equipe da Lottus Labs.
+
+---
+
+#### 🪷 Site da Lottus Labs
+
+Site em português e inglês com cena 3D interativa em Three.js, GSAP e Lenis, temas claro e escuro, SEO e GEO com dados estruturados, sitemap, hreflang e llms.txt.
+
+🔗 Saiba mais sobre o projeto: [Lottus Labs - GitHub](https://github.com/GuilhermeFranciscoPereira/Lottus-Labs)
+
+---
+
 ### 🧠 Áreas de atuação e interesse
 
 - **Frontend:** desenvolvimento de interfaces modernas, responsivas e interativas.
@@ -107,8 +154,6 @@ Fui responsável pelo desenvolvimento integral do **Front-end e Back-end** da pl
 - **Automação:** otimização de processos e integração entre plataformas.
 - **DevOps:** Docker, CI/CD, deploy e manutenção de aplicações em nuvem.
 - **Inteligência Artificial:** integração de recursos de IA em soluções de software.
-
-</details>
 
 ##
 
