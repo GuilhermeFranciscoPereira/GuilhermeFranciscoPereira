@@ -18,12 +18,6 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
@@ -39,7 +33,11 @@ Minha experiência envolve o desenvolvimento de aplicações de ponta a ponta, d
 
 Tenho foco especial em **soluções que resolvem problemas reais**, automatizam processos e geram resultados mensuráveis para empresas e instituições.
 
-### 🚀 Projetos de destaque
+<details>
+
+<summary><h3>🚀 Projetos de destaque</h3></summary>
+
+<br/>
 
 #### 🚗 Plataforma de Gestão e Automação de Infrações de Velocidade
 
@@ -144,6 +142,8 @@ Site em português e inglês com cena 3D interativa em Three.js, GSAP e Lenis, t
 
 🔗 Saiba mais sobre o projeto: [Lottus Labs - GitHub](https://github.com/GuilhermeFranciscoPereira/Lottus-Labs)
 
+</details>
+
 ---
 
 ### 🧠 Áreas de atuação e interesse
@@ -158,6 +158,8 @@ Site em português e inglês com cena 3D interativa em Three.js, GSAP e Lenis, t
 ##
 
 ### 🌎 Idiomas
+
+**Português:** nativo.
 
 Tenho **inglês avançado**, com prática recorrente em conversas com nativos e participação em comunidades internacionais.
 
